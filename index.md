@@ -1,4 +1,4 @@
-## About Martin Bore
+## About
 
 Experienced Senior Engineer with a demonstrated history of working in the higher education industry. Skilled in incident response, information security, computer forensics, Linux, Windows and MacOS.
 
