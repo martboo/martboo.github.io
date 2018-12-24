@@ -7,6 +7,6 @@ Team leader of [UiO-CERT](https://cert.uio.no).
 
 ### Contact
 
-- [Linkedin](https://www.linkedin.com/in/)
+- [Linkedin](https://www.linkedin.com/in/martbo)
 - [University of Oslo](https://www.usit.uio.no/om/organisasjon/sst/stab/ansatte/bore/index.html)
 - [PGP: 8F91 230F C405 67D5 2B5F  C685 8ECB C802 18ED CE45](https://keybase.io/martbo)
